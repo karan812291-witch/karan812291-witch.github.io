@@ -4,7 +4,7 @@
     "target": {
       "namespace": "android_app",
       "package_name": "com.murugesan.jodhidam.master",
-      "sha256_cert_fingerprints": ["INGA_UNGA_PUDHU_SHA256_PASTE_PANNUNGA"]
+      "sha256_cert_fingerprints": ["C8:DB:AD:33:99:DA:81:FF:2F:EF:83:B1:88:2F:C8:8A:59:32:5E:6E:7C:09:60:25:53:69:83:41:2D:4F:FF:75"]
     }
   },
   {
@@ -12,7 +12,7 @@
     "target": {
       "namespace": "android_app",
       "package_name": "com.murugesan.jodhidam.friend",
-      "sha256_cert_fingerprints": ["INGA_UNGA_PUDHU_SHA256_PASTE_PANNUNGA"]
+      "sha256_cert_fingerprints": ["C8:DB:AD:33:99:DA:81:FF:2F:EF:83:B1:88:2F:C8:8A:59:32:5E:6E:7C:09:60:25:53:69:83:41:2D:4F:FF:75"]
     }
   },
   {
@@ -20,7 +20,7 @@
     "target": {
       "namespace": "android_app",
       "package_name": "com.murugesan.kaikanakku.master",
-      "sha256_cert_fingerprints": ["INGA_UNGA_PUDHU_SHA256_PASTE_PANNUNGA"]
+      "sha256_cert_fingerprints": ["C8:DB:AD:33:99:DA:81:FF:2F:EF:83:B1:88:2F:C8:8A:59:32:5E:6E:7C:09:60:25:53:69:83:41:2D:4F:FF:75"]
     }
   },
   {
@@ -28,7 +28,7 @@
     "target": {
       "namespace": "android_app",
       "package_name": "com.murugesan.kaikanakku.friend",
-      "sha256_cert_fingerprints": ["INGA_UNGA_PUDHU_SHA256_PASTE_PANNUNGA"]
+      "sha256_cert_fingerprints": ["C8:DB:AD:33:99:DA:81:FF:2F:EF:83:B1:88:2F:C8:8A:59:32:5E:6E:7C:09:60:25:53:69:83:41:2D:4F:FF:75"]
     }
   }
 ]
